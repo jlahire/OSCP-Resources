@@ -62,6 +62,8 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
 
 6. Practice Boxes
    - [Hack The Box](./Practice-Boxes/HackTheBox.md)
+   - [Try Hack Me](./Practice-Boxes/TryHackMe.md)
+   - [Vuln Hub](./Practice-Boxes/VulnHub.md)
 
 7. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
    - 24-Hour Strategy

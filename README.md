@@ -71,9 +71,6 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - Windows Techniques
    - Networking Tips
 
-9. [Contributing](./CONTRIBUTING.md)
-    - How to Contribute
-
 ---
 
 This guide is constantly evolving. Make sure to bookmark it and check back regularly for updates!

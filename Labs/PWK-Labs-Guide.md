@@ -1,6 +1,6 @@
-# Labs
+## Labs
 
-## PWK Labs Overview
+### PWK Labs Overview
 
 The **Penetration Testing with Kali Linux (PWK)** course, offered by Offensive Security, provides a comprehensive learning path for aspiring penetration testers. The labs are an essential part of the PWK course, offering hands-on experience with real-world scenarios. Below is an overview of the PWK labs:
 
@@ -16,6 +16,8 @@ The **Penetration Testing with Kali Linux (PWK)** course, offered by Offensive S
 - **Progression**: The labs are designed to scale in complexity. Starting with easier machines, students progress through increasingly difficult targets, which helps build foundational skills and advanced techniques.
 
 - **Report Submission**: As part of the final assessment for the PWK course, students are required to submit a report documenting their exploitation and post-exploitation process for each machine. This reinforces professional documentation skills and helps students refine their methodology.
+
+---
 
 ## Recommended Platforms
 
@@ -54,3 +56,48 @@ The following platforms are highly recommended for supplementing your penetratio
   - Follow the learning paths for a more structured approach, or choose individual rooms to explore specific topics.
 
   Website: [https://tryhackme.com](https://tryhackme.com)
+
+### 3. Vulnhub
+
+**Vulnhub** offers a collection of vulnerable virtual machines that penetration testers and security professionals can use to practice their skills in a safe environment. The platform is designed to help learners improve their knowledge of exploiting vulnerabilities in real-world scenarios.
+
+- **Key Features**:
+  - A large collection of vulnerable machines with varying levels of difficulty.
+  - Open-source, with many machines being created by the community.
+  - Direct download of virtual machines to practice in local environments like VirtualBox or VMware.
+  
+- **Recommended Use**:
+  - Vulnhub is perfect for practicing exploitation and post-exploitation tasks, especially for those who enjoy working in a local environment.
+  - It’s especially useful for anyone looking to improve their skills with older, classic vulnerabilities that are still widely relevant today.
+  
+  Website: [https://www.vulnhub.com/](https://www.vulnhub.com/)
+
+### 4. Metasploitable2
+
+**Metasploitable2** is an intentionally vulnerable machine designed to be exploited in penetration testing labs. It is widely used to practice common attack vectors and exploit development with tools like Metasploit.
+
+- **Key Features**:
+  - Provides a deliberately insecure virtual machine with multiple vulnerabilities.
+  - Suitable for practicing a variety of attack techniques, such as SQL injection, privilege escalation, and buffer overflow.
+  - Free to download and use in personal environments for training.
+
+- **Recommended Use**:
+  - Metasploitable2 is a great starting point for practicing exploitation techniques, especially for those using Metasploit as their primary tool.
+  - The machine provides an excellent foundation for beginners to learn and practice the basics of penetration testing.
+
+  Website: [https://sourceforge.net/projects/metasploitable/](https://sourceforge.net/projects/metasploitable/)
+
+### 5. DVWA (Damn Vulnerable Web Application)
+
+**DVWA** is a PHP/MySQL web application that is intentionally vulnerable to various web-based attacks. It is designed for web application security professionals to practice techniques like SQL injection, Cross-Site Scripting (XSS), and file inclusion vulnerabilities.
+
+- **Key Features**:
+  - Provides a deliberately insecure web application for practicing web-based penetration testing techniques.
+  - Easy setup with configurable security levels to match different skill levels.
+  - Covers a variety of web security vulnerabilities, including SQLi, XSS, CSRF, and file upload vulnerabilities.
+
+- **Recommended Use**:
+  - DVWA is ideal for penetration testers focused on web application security.
+  - It is highly recommended for those looking to sharpen their web exploitation skills and learn how to secure common web vulnerabilities.
+
+  Website: [https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA)

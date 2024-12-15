@@ -68,7 +68,7 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - 24-Hour Strategy
    - Reporting Templates
 
-9. [Cheatsheets]
+9. Cheatsheets
    - [Shells](./Cheatsheets/Shells.md)
    - [Payloads](./Cheatsheets/Payloads.md)
 

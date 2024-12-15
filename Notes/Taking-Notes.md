@@ -22,9 +22,35 @@
 
 ## Tips for Effective Note-Taking
 
-- **Use Markdown**: Markdown allows for easy formatting, code blocks, and linking in your notes.  
-- **Create Templates**: Prepare templates for scanning results, enumeration steps, or exploitation commands to streamline the process.  
-- **Group by Categories**: Organize your notes by categories like Enumeration, Privilege Escalation, and Web Exploitation for easy access.  
-- **Keep It Concise**: Don't write unnecessary information; focus on the most effective commands, exploits, and techniques.  
-- **Use Diagrams**: Visual representations (network diagrams, attack trees) help in organizing complex processes.
+### Automate Saved shell output:
+It only takes a single step to set up:
+Copy-and-paste the following script to the end of ~/.zshrc.
+```
+if [ -z "${UNDER_SCRIPT}" ]; then
+    logdir=${HOME}/logs
+    logfile=${logdir}/$(date +%F.%H-%M-%S).$$.log
+
+    mkdir -p ${logdir}
+    export UNDER_SCRIPT=${logfile}
+    echo "The terminal output is saving to $logfile"
+    script -f -q ${logfile}
+
+    exit
+fi
+```
+
+That's it. Now every command's input and output will be recorded and saved in a safe place under ~/logs/ with a timestamp.
+These changes will be effective in new windows/tabs.
+
+Demo:
+Whenever a new shell session is created, the log path of that session is displayed.
+
+![image](https://github.com/user-attachments/assets/e8407b30-8007-47a3-92ef-058f41aa76c1)
+
+View the logs by using cat.
+It will show the log content including the colors of previous inputs and outputs.
+
+![image](https://github.com/user-attachments/assets/aedc6063-8186-48d9-b78b-88020c9b8925)
+
+
 

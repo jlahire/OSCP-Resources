@@ -8,5 +8,5 @@
 [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fverylazytech)](https://x.com/verylazytech)
 
 
-- **(Payloads All The Things)[https://github.com/swisskyrepo/PayloadsAllTheThings]**
-- **(Payload Box)[https://github.com/payloadbox]**
+- **[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)**
+- **[Payload Box](https://github.com/payloadbox)**

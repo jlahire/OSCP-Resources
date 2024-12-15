@@ -60,8 +60,8 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - Books, Articles, and Videos
    - Study Guides and Write-Ups
 
-6. [Practice Boxes](./Practice-Boxes/Easy.md)
-   - Easy, Medium, and Hard Practice Boxes
+6. Practice Boxes
+   - [Hack The Box](./Practice-Boxes/HackTheBox.md)
 
 7. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
    - 24-Hour Strategy

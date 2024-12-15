@@ -42,7 +42,7 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
 ## Table of Contents
 1. [OSCP Exam Guide - Rules](./Syllabus/OSCP-Exam-Guide.md)
    
-2. [Tools](./Tools/Essential-Tools.md)
+2. [Tools](./Tools%20/Essential-Tools.md)
    - Enumeration Tools
    - Exploitation Tools
    - Post-Exploitation Tools

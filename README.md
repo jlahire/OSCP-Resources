@@ -49,7 +49,7 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
 
 3. [Labs](Labs/PWK-Labs-Guide.md)
    - PWK Labs Overview
-   - Recommended Platforms (Hack The Box, TryHackMe)
+   - Recommended Platforms
 
 4. [Notes](./Notes/Enumeration.md)
    - Enumeration

@@ -51,10 +51,7 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - PWK Labs Overview
    - Recommended Platforms
 
-4. [Notes](./Notes/Enumeration.md)
-   - Enumeration
-   - Privilege Escalation
-   - Post-Exploitation
+4. [Notes](./Notes/Taking-Notes.md)
 
 5. [Resources](./Resources/Study-Resources.md)
    - Books, Articles, and Videos

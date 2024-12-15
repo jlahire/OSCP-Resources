@@ -40,33 +40,35 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
 ---
 
 ## Table of Contents
-1. [OSCP Exam Guide - Rules](./Syllabus/OSCP-Exam-Guide.md)
+1. Syllabus
+   - [OSCP Exam Guide - Rules](./Syllabus/OSCP-Exam-Guide.md)
+   - [Syllabus](./Syllabus/Syllabus.md)
    
-2. [Tools](./Tools%20/Essential-Tools.md)
+3. [Tools](./Tools%20/Essential-Tools.md)
    - Enumeration Tools
    - Exploitation Tools
    - Post-Exploitation Tools
 
-3. [Labs](Labs/PWK-Labs-Guide.md)
+4. [Labs](Labs/PWK-Labs-Guide.md)
    - PWK Labs Overview
    - Recommended Platforms
 
-4. [Notes](./Notes/Taking-Notes.md)
+5. [Notes](./Notes/Taking-Notes.md)
 
-5. [Resources](./Resources/Study-Resources.md)
+6. [Resources](./Resources/Study-Resources.md)
    - Books, Articles, and Videos
    - Study Guides and Write-Ups
 
-6. Practice Boxes
+7. Practice Boxes
    - [Hack The Box](./Practice-Boxes/HackTheBox.md)
    - [Try Hack Me](./Practice-Boxes/TryHackMe.md)
    - [Vuln Hub](./Practice-Boxes/VulnHub.md)
 
-7. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
+8. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
    - 24-Hour Strategy
    - Reporting Templates
 
-8. [Cheatsheets](./Cheatsheets/Linux.md)
+9. [Cheatsheets](./Cheatsheets/Linux.md)
    - Linux Commands
    - Windows Techniques
    - Networking Tips

@@ -8,9 +8,10 @@
 [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fverylazytech)](https://x.com/verylazytech)
 
 
-- [RevShells.com - Reverse Shell Cheat Sheet](https://www.revshells.com/) - A comprehensive collection of reverse shell payloads for different systems.  
-
-![image](https://github.com/user-attachments/assets/4fede793-e7cc-4d4c-8cdd-31f4e73d30be)
+- [RevShells.com - Reverse Shell Cheat Sheet](https://www.revshells.com/) - A comprehensive collection of shells payloads for different systems.  
+- [PHP Reverse Shell](https://github.com/ivan-sincek/php-reverse-shell) - refresh on the popular PHP reverse shell script pentestmonkey/php-reverse-shell.
+- [Webshell](https://github.com/tennc/webshell) - A comprehensive collection of webshell payloads.
+- [Web-shells](https://github.com/TheBinitGhimire/Web-Shells) - Some of the best web shells that you might need for web hacking.
 
 
 

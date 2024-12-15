@@ -39,15 +39,5 @@ These resources provide in-depth knowledge about penetration testing, ethical ha
 2. **[Hack-the-Box-OSCP-Preparation](https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation)**
 
 
-## Free Resources
 
-1. **[OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)**  
-  
-2. **[Hack The Box](https://www.hackthebox.eu/)**  
-  
-3. **[TryHackMe OSCP Path](https://tryhackme.com/)**  
-  
-4. **[OSCP Preparation Guide](https://www.offensive-security.com/pwk-oscp/)**  
-   
-5. **[PentesterLab](https://www.pentesterlab.com/)**  
  

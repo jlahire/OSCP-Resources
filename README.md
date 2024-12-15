@@ -51,32 +51,28 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - PWK Labs Overview
    - Recommended Platforms (Hack The Box, TryHackMe)
 
-4. [Exploit Development](./Exploit-Development/Buffer-Overflow.md)
-   - Buffer Overflow
-   - Writing Exploits
-
-5. [Notes](./Notes/Enumeration.md)
+4. [Notes](./Notes/Enumeration.md)
    - Enumeration
    - Privilege Escalation
    - Post-Exploitation
 
-6. [Resources](./Resources/Study-Resources.md)
+5. [Resources](./Resources/Study-Resources.md)
    - Books, Articles, and Videos
    - Study Guides and Write-Ups
 
-7. [Practice Boxes](./Practice-Boxes/Easy.md)
+6. [Practice Boxes](./Practice-Boxes/Easy.md)
    - Easy, Medium, and Hard Practice Boxes
 
-8. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
+7. [Exam Preparation](./Exam-Preparation/OSCP-Exam-Tips.md)
    - 24-Hour Strategy
    - Reporting Templates
 
-9. [Cheatsheets](./Cheatsheets/Linux.md)
+8. [Cheatsheets](./Cheatsheets/Linux.md)
    - Linux Commands
    - Windows Techniques
    - Networking Tips
 
-10. [Contributing](./CONTRIBUTING.md)
+9. [Contributing](./CONTRIBUTING.md)
     - How to Contribute
 
 ---

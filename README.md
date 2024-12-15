@@ -47,7 +47,7 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - Exploitation Tools
    - Post-Exploitation Tools
 
-3. [Labs](./Labs/PWK-Labs-Guide.md)
+3. [Labs](Labs/PWK-Labs-Guide.md)
    - PWK Labs Overview
    - Recommended Platforms (Hack The Box, TryHackMe)
 

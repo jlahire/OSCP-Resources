@@ -45,9 +45,6 @@ Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a compreh
    - [Syllabus](./Syllabus/Syllabus.md)
    
 3. [Tools](./Tools%20/Essential-Tools.md)
-   - Enumeration Tools
-   - Exploitation Tools
-   - Post-Exploitation Tools
 
 4. [Labs](Labs/PWK-Labs-Guide.md)
    - PWK Labs Overview

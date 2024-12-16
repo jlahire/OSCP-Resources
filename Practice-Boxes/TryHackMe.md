@@ -31,3 +31,9 @@
 - [Wreath](https://tryhackme.com/room/wreath) *(Difficulty: Hard, Subject: Web Application Exploitation, AD Escalation)*  
 - [Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine) *(Difficulty: Hard, Subject: Custom Service Exploitation, Linux Privilege Escalation)*  
 - [Vault](https://tryhackme.com/room/vault) *(Difficulty: Hard, Subject: Privilege Escalation, Sudo Misconfiguration)*  
+
+---
+
+# Resources For Walkthrough:
+- [HackerSploit YouTube](https://www.youtube.com/watch?v=a5iQtVBYec4&list=PLBf0hzazHTGMaLYlIX25wdXboA6XwiZSw)
+- [John Hammond YouTube](https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if)

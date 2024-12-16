@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fverylazytech)](https://x.com/verylazytech)
 
 ## Beginner/Basic-Level Machines
-- [Lame](https://www.hackthebox.com/machines/Lame) *(Difficulty: Easy, Subject: SMB Exploitation)*  
+- [Lame](https://www.hackthebox.com/machines/Lame) *(Difficulty: Easy, Subject: SMB Exploitation)*
 - [Legacy](https://www.hackthebox.com/machines/Legacy) *(Difficulty: Easy, Subject: SMB Vulnerabilities)*  
 - [Brainfuck](https://www.hackthebox.com/machines/Brainfuck) *(Difficulty: Easy, Subject: Web Enumeration, PHP Exploitation)*  
 - [Blue](https://www.hackthebox.com/machines/Blue) *(Difficulty: Easy, Subject: EternalBlue Exploit)*  
@@ -60,4 +60,10 @@
 - [OpenAdmin](https://www.hackthebox.com/machines/OpenAdmin) *(Difficulty: Medium, Subject: Web Enumeration)*  
 - [Admirer](https://www.hackthebox.com/machines/Admirer) *(Difficulty: Medium, Subject: Directory Enumeration)*  
 - [Blunder](https://www.hackthebox.com/machines/Blunder) *(Difficulty: Medium, Subject: CMS Exploitation)*  
-- [Doctor](https://www.hackthebox.com/machines/Doctor) *(Difficulty: Medium, Subject: Web Exploitation)*  
+- [Doctor](https://www.hackthebox.com/machines/Doctor) *(Difficulty: Medium, Subject: Web Exploitation)*
+
+---
+# Resources For Walkthrough:
+- [Ippsec Youtube](https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
+- [Ippsec Active Directory](https://www.youtube.com/watch?v=jUc1J31DNdw&list=PLIU37Kps3dWApq77TnChQ52clmau8DfZA)
+- [0xdf Writeups](https://0xdf.gitlab.io/)

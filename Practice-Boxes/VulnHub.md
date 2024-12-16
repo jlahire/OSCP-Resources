@@ -31,3 +31,8 @@
 ## Web Exploitation Focus
 - [Surveillance](https://www.vulnhub.com/entry/surveillance-1,102/) *(Difficulty: Medium, Subject: Web enumeration, XSS and RCE exploitation)*  
 - [Maverick](https://www.vulnhub.com/entry/maverick-1,109/) *(Difficulty: Medium, Subject: Web application vulnerabilities, PHP exploitation)*  
+
+---
+# Resources For Walkthrough:
+- [HackerSploit YouTube](https://www.youtube.com/watch?v=i-dQwejj518&list=PLBf0hzazHTGMcijE6NgwyjfbR33D8GJVe)
+- [InfoSec](https://www.youtube.com/watch?v=lrTaaBWsQlQ&list=PLxTwjzMO9Zf6BLXcw8Hxjmt-sDHMacQxU)

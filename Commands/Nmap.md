@@ -162,9 +162,12 @@ The -oN flag saves output in a human-readable format.
 nmap -oX <file_name> <target>
 ```
 
-![image](https://github.com/user-attachments/assets/58c7feb0-b798-43aa-94b7-9a1c17ff2668)
-
-
 The -oX flag saves output in XML format.
 
 **Use Case:** Integration with other tools that require structured data.
+
+
+![image](https://github.com/user-attachments/assets/58c7feb0-b798-43aa-94b7-9a1c17ff2668)
+
+
+

@@ -2,6 +2,9 @@
 
 Welcome to the **Ultimate OSCP Preparation Guide**! This repository is a comprehensive resource designed to help you prepare for the **Offensive Security Certified Professional (OSCP)** certification exam. Whether you're just starting your journey in penetration testing or are a seasoned security professional, this guide offers structured, actionable content to help you succeed.
 
+> [!NOTE]  
+> This repository will also try to cover as much as possible of the tools required for the proving grounds boxes, and OSCP exam.
+
 [![My Shop](https://img.shields.io/badge/My%20Shop-verylazytech-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/verylazytech/extras)
 [![Medium](https://img.shields.io/badge/Medium-%40verylazytech-%231572B6?style=flat&logo=medium&logoColor=white)](https://medium.com/@verylazytech)
 [![Github](https://img.shields.io/badge/Github-verylazytech-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/verylazytech)

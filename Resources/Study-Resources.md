@@ -45,6 +45,9 @@ These resources provide in-depth knowledge about penetration testing, ethical ha
   
 2. **[Hack-the-Box-OSCP-Preparation](https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation)**
 
+## Amazon best seller hackign books (personally check it once in a while)
+1) **[Best seller - Hacking books](https://amzn.to/4gjPDRO)**
+
 
 
  

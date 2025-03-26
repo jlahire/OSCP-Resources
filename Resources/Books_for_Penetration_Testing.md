@@ -6,47 +6,47 @@ This list comes from my own journey and struggles in the cybersecurity world. Ov
   [Amazon Link](https://amzn.to/4aS59Dl)
   
 - **Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters**, 2021  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304633)
+  [Buy Now](https://shop.verylazytech.com/l/BlackHatPython2ndEditionPythonProgrammingforHackersandPentesters)
   [Amazon Link](https://amzn.to/3Q3gy9K)
   
 - **Ethical Hacking: A Hands-on Introduction to Breaking In**, 2021  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/331401)
+  [Buy Now](https://shop.verylazytech.com/l/EthicalHackingAHands-onIntroductiontoBreakingIn)
   [Amazon Link](https://amzn.to/3PW2u20)
 
 - **Bug Bounty Bootcamp**, 2021  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304596)
+  [Buy Now](https://shop.verylazytech.com/l/BugBountyBootcamp)
   [Amazon Link](https://amzn.to/3PWMU6e)
 
 - **Real-World Bug Hunting: A Field Guide to Web Hacking**, 2021  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304600)
+  [Buy Now](https://shop.verylazytech.com/l/Real-WorldBugHuntingAFieldGuidetoWebHacking)
   [Amazon Link](https://amzn.to/3EcKUUx)
 
 - **Red Team Development and Operations: A Practical Guide**, 2021  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304601)
+  [Buy Now](https://shop.verylazytech.com/l/RedTeamDevelopmentandOperationsAPracticalGuide)
   [Amazon Link](https://amzn.to/3PUXPgw)
 
 - **Red Team Field Manual V2**, 2022  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304597)
+  [Buy Now](https://shop.verylazytech.com/l/RedTeamDevelopmentandOperationsAPracticalGuide)
   [Amazon Link](https://amzn.to/4gohMqS)
   
 - **Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity**, 2020  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304618)
+  [Buy Now](https://shop.verylazytech.com/l/TribeofHackersRedTeam)
   [Amazon Link](https://amzn.to/4ayMDjf)
   
 - **Operator Handbook: Red Team + OSINT + Blue Team Reference**, 2020  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304604)
+  [Buy Now](https://shop.verylazytech.com/l/OperatorHandbookRedTeamOSINTBlueTeamReference)
   [Amazon Link](https://amzn.to/4aFBzB6)
 
 - **The Pentester Blueprint: Starting a Career as an Ethical Hacker**, 2020  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304619)
+  [Buy Now](https://shop.verylazytech.com/l/ThePentesterBluePrint)
   [Amazon Link](https://amzn.to/40RVklz)
 
 - **Hands-on Hacking: Become an Expert at Next-Gen Penetration Testing and Purple Teaming**, 2020  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/357716)
+  [Buy Now](https://shop.verylazytech.com/l/kqvtb)
   [Amazon Link](https://amzn.to/4goh5hg)
 
 - **The Hacker Playbook 3** by Peter Kim, 2018  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/328955)
+  [Buy Now](https://shop.verylazytech.com/l/TheHackerPlaybook3)
   [Amazon Link](https://amzn.to/3Q2JM8J)
 
 - **Advanced Penetration Testing** by Wil Allsopp, 2017  
@@ -59,7 +59,7 @@ This list comes from my own journey and struggles in the cybersecurity world. Ov
   [Amazon Link](https://amzn.to/4hJOW5i)
   
 - **Rtfm: Red Team Field Manual** by Ben Clark, 2014  
-  [Buy Now](https://buymeacoffee.com/verylazytech/e/304597)
+  [Buy Now](https://shop.verylazytech.com/l/RedTeamFieldManualV2)
   [Amazon Link](https://amzn.to/3WNSMCt)
 
 - **Black Hat Python: Python Programming for Hackers and Pentesters** by Justin Seitz, 2014  

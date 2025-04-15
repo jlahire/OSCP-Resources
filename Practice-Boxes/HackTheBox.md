@@ -64,6 +64,6 @@
 
 ---
 # Resources For Walkthrough:
-- [Ippsec Youtube](https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
+- [Ippsec Youtube](https://youtube.com/playlist?list=PLla1QtqibYnFvysbaj2SlqShgZTJjb7Er&si=iCOx914bEbym_UMN)
 - [Ippsec Active Directory](https://www.youtube.com/watch?v=jUc1J31DNdw&list=PLIU37Kps3dWApq77TnChQ52clmau8DfZA)
 - [0xdf Writeups](https://0xdf.gitlab.io/)
